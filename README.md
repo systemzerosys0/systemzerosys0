@@ -2,8 +2,11 @@
 
 ✨ Welcome ✨
 
-You'll see me online using the handle sys0. I'm a pentester with a love for writing,
-analyzing, and finding malware. I believe that if a process is too boring to do repeatedly,
-it should be automated. You'll find scripts on this page to do exactly that.
+You'll see me online using the handle sys0. I'm a pentester working in Manhattan with a passionate interest in computer viruses. I've recently been working on creating and using badUSB scripts. 
+I love the internet, and I want to help make it the best it can be. 
+
+I enjoy gardening and creating pixel art. Are you a fan of my avatar art? You can find a link to some other pieces of mine below!
 
 ✨LinkedIn: https://www.linkedin.com/in/albert-cicero/
+
+✨dotpict: https://dotpict.net/users/2426064
